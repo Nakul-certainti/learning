@@ -1,0 +1,4 @@
+import {filedata} from "./FPA_fileread_module.ts";
+
+export const projectData1 = filedata;
+export const projectData2 =  `The project involved migrating existing internal project documents from one shared folder structure to another, renaming files to follow a standard naming convention, updating user access permissions, and cleaning up outdated records for administrative consistency. The work was intended to improve document organization and operational convenience, but it did not seek to create or improve a product’s functionality, performance, reliability, or quality in a technical sense, did not develop a new or improved business component, and did not pursue a technical goal requiring engineering advancement. The activities were primarily administrative and procedural, with no meaningful technical uncertainty, no experimentation to resolve unknown engineering problems, and no technological development beyond routine file management and process cleanup.`
